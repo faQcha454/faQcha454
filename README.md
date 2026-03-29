@@ -5,7 +5,7 @@ Actual estudiante de programacion en la Universidad Nacional de San Martin (UNSA
 ---
 
 ## Contenidos con los que he trabajado
-- C
+- [C](https://github.com/faQcha454/Assembler)
 - Arduino (C++)
 - Assembler
 - Google Sheets
