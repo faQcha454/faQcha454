@@ -6,6 +6,6 @@ Actual estudiante de programacion en la Universidad Nacional de San Martin (UNSA
 
 ## Contenidos con los que he trabajado
 - C
-- Arduino (C++)
+- Arduino IDE
 - [Assembler](https://github.com/faQcha454/Assembler)
 - Google Sheets
