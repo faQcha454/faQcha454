@@ -1,9 +1,15 @@
-## Hi there 👋
+# Facundo Chapero - Programador en Capacitacion
 
-<!--
-**faQcha454/faQcha454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actual estudiante de programacion en la Universidad Nacional de San Martin (UNSAM), docente en robotica e instructor de taekwondo. Creé este espacio como pórtfolio de mis proyectos y trabajos. Son bienvenidos a entrar y chequear cualquiera de los archivos acá publicados. Este repositorio no es solo un deposito, sino tambien un reflejo de mi aprendizaje, los desafios que he enfrentado y mi propio sed de progreso, por ende, iré actualizandolo con contenido periodicamente.
 
-Here are some ideas to get you started:
+---
+
+## Contenidos con los que he trabajado
+- C
+- Arduino (C++)
+- Assembler
+- Google Sheets
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
