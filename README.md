@@ -13,8 +13,8 @@ Actual estudiante de programacion en la Universidad Nacional de San Martin (UNSA
 ---
 
 ## Roadmap de Futuros Conocimientos
-|x| Google Sheets y Autocrat
-[ ] Armado y Reparación de PCs
+- [x] Google Sheets y Autocrat
+- [ ] Armado y Reparación de PCs
 [ ] Git y Github
 [ ] Ubuntu y su Personalización
 [ ] Python junto con C
